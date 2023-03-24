@@ -10,12 +10,10 @@ Usage of all tools in this repo for attacking/unlocking targets without prior mu
 - **SIM FIX**  scripts for dumping and restoring sim card files, you dump sim card before restore of the device you restore the device do the bypass and restore the files everything is in the menu - simfrom.sh/simto.sh 
 - **Remove icloud account from device that is activated!** If you cant disable old account you can with this script but do not restore the device!! - rm_oldicloud.sh
 ## About
-This script will download everything and you just follow instructions this script will work on all devices suported by chackrain so devices from iphone 5s to iphone 10. It should work under ios 14 but some IOS 13 versions dont work.
-Have fun
+
 ## How to run it
 This can be run on Mac/Linux and windows with linux sub system
 Make sure you connect your device over USB
 Command ``git clone https://github.com/sudo-self/icloud-bypass-12.3-13.2.3 && cd Ahttps://github.com/sudo-self/icloud-bypass-12.3-13.2.3 && chmod +x start.sh && clear && ./start.sh;``
 
-#  How does it work?
-It works by jailbreaking the device which we can get SSH control over it, after that we just force kill setup app.
+
