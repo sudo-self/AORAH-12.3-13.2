@@ -8,7 +8,7 @@ Usage of all tools in this repo for attacking/unlocking targets without prior mu
 
 ## How to run it
 
-git clone https://github.com/sudo-self/icloud-bypass-12.3-13.2.3 && cd Ahttps://github.com/sudo-self/icloud-bypass-12.3-13.2.3 && chmod +x start.sh && clear && ./start.sh
+git clone https://github.com/sudo-self/icloud-bypass-12.3-13.2.3 && cd https://github.com/sudo-self/icloud-bypass-12.3-13.2.3 && chmod +x start.sh && clear && ./start.sh
 
 
 ![Untitled](https://user-images.githubusercontent.com/119916323/227811006-2c810ea2-df37-4eb0-b095-0e0a379cf225.jpg)
